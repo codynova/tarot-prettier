@@ -1,0 +1,21 @@
+{
+  "name": "tarot-prettier",
+  "version": "0.0.1",
+  "description": "Default Prettier config for Tarot",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codynova/tarot-prettier.git"
+  },
+  "keywords": [
+    "tarot",
+    "prettier",
+    "config"
+  ],
+  "author": "Cody Nova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codynova/tarot-prettier/issues"
+  },
+  "homepage": "https://github.com/codynova/tarot-prettier#readme"
+}
