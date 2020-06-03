@@ -12,3 +12,17 @@ yarn add --dev tarot-prettier
   "prettier": "tarot-prettier"
 }
 ```
+
+
+#### Rules
+
+```json
+{
+  "semi": false,
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "endOfLine": "lf",
+  "printWidth": 180
+}
+```
